@@ -1,0 +1,11 @@
+name: PremiumFlight
+version: ${project.version}
+main: xyz.darke.survivalflight.SurvivalFlight
+api-version: "1.13"
+authors: [Absent_Light]
+description: Allows flight for users with a specific permission
+website: darke.xyz
+commands:
+  canihasfly:
+    description: Tells a user if they can fly
+    aliases: [ifly,cfly,canihasfly]
